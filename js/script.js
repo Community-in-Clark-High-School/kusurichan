@@ -19,9 +19,9 @@ function Is_ChinChin(){
 
 function change_ChinChin(){
         if(Is_ChinChin()){
-                tweet_run("ﾁﾝﾁﾝ!");
+                tweet_run("ﾁﾝﾁﾝ! #ｸｽﾘﾁｬﾝ");
         }else{
-                tweet_run("ｸｽﾘﾁｬﾝ!");
+                tweet_run("ｸｽﾘﾁｬﾝ! #ｸｽﾘﾁｬﾝ");
         }
 } 
 
