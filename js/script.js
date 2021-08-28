@@ -4,6 +4,7 @@ function tweet_run(mes){
                 'https://twitter.com/share?'+
                 'text=' + mes+
                 '&url=' + "https://kusurichan.com"
+                '&hashtags=' + "ｸｽﾘﾁｬﾝ"
         );
 }
 
